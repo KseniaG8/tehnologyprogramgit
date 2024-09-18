@@ -1,4 +1,5 @@
 print('Hello world')
 a = int(input('Введите первое число '))
-и = int(input('Введите второе число '))
+b = int(input('Введите второе число '))
+print(a, '+', b, '=', a+b)
 
